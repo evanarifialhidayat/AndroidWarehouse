@@ -1,0 +1,22 @@
+{
+  "expo": {
+  	"name"      : "WMSrf",
+  	"icon"      : "./asset/logo.png",
+  	"slug"      : "WMSrf",
+    "sdkVersion": "27.0.0",
+    "loading"   : {
+    			"backgroundColor" : "#99c8ff",
+    },
+    "notification": {
+      "icon": "./asset/logo.png",
+    },
+    "android"   : {
+      "package" : "com.project.wmsrf",
+      "config"  : {
+                  "googleMaps" : {
+                    "apiKey" : "AIzaSyBpxloSBAX_j0eGfm-yR50UQoS0CqfwiRo"
+                  }
+      }
+    }
+  }
+}
